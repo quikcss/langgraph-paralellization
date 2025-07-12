@@ -2,7 +2,7 @@
 
 _Run Multiple AI Tasks in Parallel Using LangGraph_
 
-[![last commit](https://img.shields.io/github/last-commit/yourusername/langgraph-parallel-execution?style=flat-square)]((https://github.com/quikcss/langgraph-paralellization))
+[![last commit](https://img.shields.io/github/last-commit/quikcss/langgraph-parallel-execution?style=flat-square)]((https://github.com/quikcss/langgraph-paralellization))
 [![License](https://img.shields.io/github/license/yourusername/langgraph-parallel-execution?style=flat-square)](https://github.com/quikcss/langgraph-parallel-execution/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/python-100%25-blue?style=flat-square)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/langchain-✓-orange?style=flat-square)](https://www.langchain.com/)
