@@ -89,7 +89,7 @@ langgraph-cli
 ## 📺 Video Tutorial
 
 Watch the full walkthrough on YouTube:
-🔗 [https://youtu.be/cPkLKrLYSNg](https://youtu.be/xxqHImEaF1A)
+🔗 https://youtu.be/xxqHImEaF1A
 
 ---
 
