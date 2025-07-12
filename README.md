@@ -73,23 +73,6 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ---
 
-## 🧠 How It Works
-
-__start__ 
-   ↓
-content_generator
-   ↓
- ┌───────────────┐
- │               │
-quiz_generator  summary_generator (executed in parallel)
- │               │
- └───────┬───────┘
-         ↓
-      __end__
-
-
----
-
 ## 📦 Dependencies
 
 ```bash
